@@ -29,7 +29,8 @@
     "moment": "^2.22.1",
     "rxjs": "^6.3.1",
     "tether": "^1.4.4",
-    "zone.js": "^0.9.1"
+    "zone.js": "^0.9.1",
+    "selenium-webdriver": "^4.0.0-alpha.5"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.800.0",
